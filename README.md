@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @4A8
-- 👀 I’m interested in hitting the griddy
-- 🌱 I’m currently learning how to get sturdy
-- 💞️ I’m looking to collaborate on cha cha real smooth
-- 📫 How to reach me working 100% free 2018
+- 👋 i'm rusk
+- 👀 i go here to download stuff or report issues
+- 🌱 i like cats
+- 💞️ dumb asf
+- 📫 flappyboot@nuke.africa
 
 <!---
 4A8/4A8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
