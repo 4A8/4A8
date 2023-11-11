@@ -1,4 +1,4 @@
-# hello 
+# about
 
 - 👋 i'm rusk
 - 👀 i go here to download stuff or report issues
